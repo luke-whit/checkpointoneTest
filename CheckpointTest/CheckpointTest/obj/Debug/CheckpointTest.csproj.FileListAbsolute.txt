@@ -1,0 +1,8 @@
+C:\Users\L\source\repos\CheckpointTest\CheckpointTest\obj\Debug\CheckpointTest.csproj.AssemblyReference.cache
+C:\Users\L\source\repos\CheckpointTest\CheckpointTest\obj\Debug\CheckpointTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\L\source\repos\CheckpointTest\CheckpointTest\obj\Debug\CheckpointTest.csproj.CoreCompileInputs.cache
+C:\Users\L\source\repos\CheckpointTest\CheckpointTest\bin\Debug\CheckpointTest.exe.config
+C:\Users\L\source\repos\CheckpointTest\CheckpointTest\bin\Debug\CheckpointTest.exe
+C:\Users\L\source\repos\CheckpointTest\CheckpointTest\bin\Debug\CheckpointTest.pdb
+C:\Users\L\source\repos\CheckpointTest\CheckpointTest\obj\Debug\CheckpointTest.exe
+C:\Users\L\source\repos\CheckpointTest\CheckpointTest\obj\Debug\CheckpointTest.pdb
